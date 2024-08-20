@@ -1,0 +1,10 @@
+It involves implementing engineering principles to software development to create efficient programs
+It ensures software meets user needs and sustainable
+High Level Programming: It makes programming more accessible and reduce the need for machine code.Structured Programming: Introduced fundamental syntax to make programs more readable. Agile Methods: It emphasizes flexibility and iterative developments
+Waterfall is a linear approach where a phase must be finished before the next begins, example; buildiing a bridge. Agile is an iterative approach where solutions are through collaboration,example;software for startup
+Software developer writes and maintains code. Quality Assurance Engineer tests the software to ensure it is bug free. Project manager oversees the project and coordinates the team
+IDEs provide a comprehensive features for writing and debugging code. VCS enable collaboration and allow developers to revert to previous versions of code
+Debugging complex issue, it can be curbed by using breaking down problems and using debugging tools.Keeping Up with Technology: Continuous learning and participation in community forums
+Unit: Tests individual components. Integration Testing: Tests how different components work together. System Testing: Tests the complete system. Acceptance Testing: Ensures the software meets user requirements.
+Prompt Engineering involves crafting inputs to get the desired output from AI models. It is important because clear prompts lead to more accurate responses from AI, improving accuracy.
+Vague Prompt: Tell about software. Improved Prompt: Explain the key phases of the Software Development Life Cycle. Why Improved?: The improved prompt is specific about the information needed, making it easier for the AI to provide a relevant response.
